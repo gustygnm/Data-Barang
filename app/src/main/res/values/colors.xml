@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#427fed</color>
+    <color name="colorPrimaryDark">#347AF8</color>
+    <color name="colorAccent">#757575</color>
+
+    <color name="white">#ffffff</color>
+    <color name="gold">#FFD700</color>
+    //color tema
+    <color name="blackThema">#262626</color>
+    <color name="blueThema">#1976d2</color>
+    <color name="redThema">#b40505</color>
+    <color name="greenThema">#009688</color>
+    <color name="defaultThema">#b40505</color>
+    <color name="perak">#C0C0C0</color>
+
+    <color name="backgroundTab2">#dadada</color>
+    <color name="backgroundTab">#ecf0f1</color>
+    <color name="text_standar">#585858</color>
+    <color name="colorText">#292929</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="notification_color">#0288d1</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+    <color name="navfun">#FF6666</color>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#b40505</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#FFD700</color>
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="dot_dark_screen">#757575</color>
+    <color name="dot_dark_screen1">#757575</color>
+    <color name="dot_dark_screen2">#757575</color>
+    <color name="dot_dark_screen3">#757575</color>
+    <color name="dot_dark_screen4">#757575</color>
+    <color name="dot_dark_screen5">#757575</color>
+    <!--<color name="dot_dark_screen1">#061a9b</color>-->
+    <!--<color name="dot_dark_screen2">#6A1B9A</color>-->
+    <!--<color name="dot_dark_screen3">#00695C</color>-->
+    <!--<color name="dot_dark_screen4">#EF6C00</color>-->
+    <!--<color name="dot_dark_screen5">#3E2723</color>-->
+
+    <color name="dot_light_screen1">#940303</color>
+    <color name="dot_light_screen2">#b40505</color>
+    <color name="dot_light_screen3">#1976d2</color>
+    <color name="dot_light_screen4">#3e802f</color>
+    <color name="dot_light_screen5">#009688</color>
+    <color name="dot_light_screen6">#000000</color>
+    <!--<color name="dot_light_screen1">#FF5E75F4</color>-->
+    <!--<color name="dot_light_screen2">#E1BEE7</color>-->
+    <!--<color name="dot_light_screen3">#B0CBC4</color>-->
+    <!--<color name="dot_light_screen4">#FFE0B4</color>-->
+    <!--<color name="dot_light_screen5">#A1887F</color>-->
+
+    <array name="dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+    <array name="dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+    <color name="background">#dddddd</color>
+</resources>
